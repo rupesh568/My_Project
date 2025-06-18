@@ -1,0 +1,14 @@
+h1{
+    background-color: blue;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+}
+p{
+    background-color: red;
+}
